@@ -1,2 +1,0 @@
-# SeeJoshsPhotos
-Photographer
